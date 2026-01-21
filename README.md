@@ -1,6 +1,7 @@
 ## Online Repository for Institutional Adult Education Regimes: Continuing Vocational Education and Training Participation and Barriers in Germany, Sweden and The United Kingdom
 
 Authors: Nate Breznau[1] and Judith Offerhaus[2]
+
 [1] German Institute for Adult Education - Leibniz Centre for Lifelong Learning
 [2] German Federal Institute for Vocational Education and Training
 
